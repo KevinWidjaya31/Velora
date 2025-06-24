@@ -1,12 +1,12 @@
-# HeavyRent
+# Velora
 
 A Flutter-based mobile app for heavy equipment rental.
 
 ## 📱 Features
-- Equipment booking
-- Admin panel
-- Real-time updates
+- Browse fashion items by category
+- Detailed product descriptions
+- Seamless shopping and checkout process
 
 ## 📦 Download APK
 
-👉 [Download HeavyRent APK](https://drive.google.com/uc?export=download&id=1Et6DVzIJEiGyjRHv76BxO4dtzRENpmR0)
+👉 [Download Velora APK](https://drive.google.com/uc?export=download&id=1Et6DVzIJEiGyjRHv76BxO4dtzRENpmR0)
