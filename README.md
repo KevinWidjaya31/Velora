@@ -1,16 +1,12 @@
-# ecommerce
+# HeavyRent
 
-A new Flutter project.
+A Flutter-based mobile app for heavy equipment rental.
 
-## Getting Started
+## 📱 Features
+- Equipment booking
+- Admin panel
+- Real-time updates
 
-This project is a starting point for a Flutter application.
+## 📦 Download APK
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👉 [Download HeavyRent APK](https://drive.google.com/uc?export=download&id=1Et6DVzIJEiGyjRHv76BxO4dtzRENpmR0)
